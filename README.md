@@ -2,9 +2,10 @@
 <h1 align="center">Hi 👋, I'm Dave</h1>
 <h3 align="center">A passionate full-stack developer from Switzerland</h3>
 
-<img aligh="left" src="https://lanyard.cnrad.dev/api/828936480952942593">
-<img aligh="right" width="30%" src="https://github-readme-stats.vercel.app/api?username=ceodavee&show_icons=true&theme=dracula">
-
+<p float="left">
+  <img src="https://lanyard.cnrad.dev/api/828936480952942593" width="47%" style="margin-right: 2%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ceodavee&show_icons=true&theme=dracula" width="47%" /> 
+</p>
 
 <p align="left"> <a href="https://twitter.com/ceodavee" target="blank"><img src="https://img.shields.io/twitter/follow/ceodavee?logo=twitter&style=for-the-badge" alt="ceodavee" /></a> </p>
 
