@@ -15,4 +15,4 @@
 
 ![](https://komarev.com/ghpvc/?username=ceodavee&color=blueviolet)
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/828936480952942593showDisplayName=true)](https://discord.com/users/828936480952942593)
+[![Discord Presence](https://lanyard.cnrad.dev/api/828936480952942593show?DisplayName=true)](https://discord.com/users/828936480952942593)
