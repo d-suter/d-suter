@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dave</h1>
-<h3 align="center">A passionate frontend developer from Switzerland</h3>
+<h3 align="center">A passionate full-stack developer from Switzerland</h3>
 
 <p align="left"> <a href="https://twitter.com/ceodavee" target="blank"><img src="https://img.shields.io/twitter/follow/ceodavee?logo=twitter&style=for-the-badge" alt="ceodavee" /></a> </p>
 
