@@ -3,9 +3,12 @@
 <h3 align="center">A passionate full-stack developer from Switzerland</h3>
 
 <p float="left">
-  <img src="https://lanyard.cnrad.dev/api/828936480952942593" width="41%" style="margin-right: 10%" />
+  <a href="https://discord.com/users/828936480952942593" target="_blank">
+    <img src="https://lanyard.cnrad.dev/api/828936480952942593" width="41%" style="margin-right: 2%" />
+  </a>
   <img src="https://github-readme-stats.vercel.app/api?username=ceodavee&show_icons=true&theme=dracula" width="50%" /> 
 </p>
+
 
 <p align="left"> <a href="https://twitter.com/ceodavee" target="blank"><img src="https://img.shields.io/twitter/follow/ceodavee?logo=twitter&style=for-the-badge" alt="ceodavee" /></a> </p>
 
