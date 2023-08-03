@@ -3,7 +3,7 @@
 <h3 align="center">A passionate full-stack developer from Switzerland</h3>
 
 <p float="left">
-  <img src="https://lanyard.cnrad.dev/api/828936480952942593" width="40%" style="margin-right: 10%" />
+  <img src="https://lanyard.cnrad.dev/api/828936480952942593" width="42%" style="margin-right: 10%" />
   <img src="https://github-readme-stats.vercel.app/api?username=ceodavee&show_icons=true&theme=dracula" width="50%" /> 
 </p>
 
