@@ -15,7 +15,7 @@
 <h3 align="left">Progress:</h3>
 - 🌱 I’m currently learning Python
 
-<h3 😂 Here is a random joke that'll make you laugh! </h3>
+## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <h3 align="left">Languages and Tools:</h3>
