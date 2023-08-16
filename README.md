@@ -1,4 +1,4 @@
-[![MasterHead](https://media.discordapp.net/attachments/949256656334757898/1136763847722680380/website.png?width=1440&height=432)](https://github.com/ceodavee)
+<!--- [![MasterHead](https://media.discordapp.net/attachments/949256656334757898/1136763847722680380/website.png?width=1440&height=432)](https://github.com/ceodavee) -->
 <h1 align="center">Hi 👋, I'm Dave</h1>
 <h3 align="center">A passionate full-stack developer from Switzerland</h3>
 
