@@ -9,9 +9,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ceodavee&show_icons=true&theme=dracula" width="50%" /> 
 </p>
 
-
-<p align="left"> <a href="https://twitter.com/ceodavee" target="blank"><img src="https://img.shields.io/twitter/follow/ceodavee?logo=twitter&style=for-the-badge" alt="ceodavee" /></a> </p>
-
 <h3 align="left">Progress:</h3>
 - 🌱 I’m currently learning Python
 
