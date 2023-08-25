@@ -1,8 +1,7 @@
 <!--- Banner Image -->
 <img src="/img/banner.png" alt="Dave's Banner" width="100%"/>
 
-<h1 align="left">Hi 👋, I'm Dave</h1>
-<h3 align="left">An aspiring developer from Switzerland, currently on my learning journey.</h3>
+<h3 align="left">I'm an aspiring developer from Switzerland, currently on my learning journey.</h3>
 
 <h3 align="left">Currently:</h3>
 <p>
