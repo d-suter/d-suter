@@ -1,20 +1,16 @@
-<a href="https://github.com/ceodavee" target="_blank">
-    <img src="/img/banner.png" alt="Dave's Banner" style="display:block; margin:auto;" width="100%"/>
-</a>
+![David's Banner](/img/banner.png)
 
-<h2>David</h2>
-<p>Eager to explore the vast expanse of tech, I'm constantly refining my skills. Passionate about open-source, every day is a step forward in this intricate world of coding. Open to collaborations and learning from diverse perspectives.</p>
+## David's Python Corner:
+```python
+def is_profile_special():
+    while True:
+        if input("Is this profile special? (yes/no): ").lower() == 'yes':
+            print("Ohh, you really thought it's special? Well, it isn't... or is it? 🤔")
+            break
+        print("Give it another shot. 😉")
 
-<h3>Current Focus:</h3>
-<p>
-- 🐍 Deepening my understanding of Python<br>
-- 🔧 Engaging with 
-  <a href="https://github.com/mnkrcc">Moniker</a>
-</p>
+is_profile_special()
+```
 
-<h3>Connect on Discord:</h3>
-<p>
-  <a href="https://discord.com/users/828936480952942593" target="_blank">
-    <img src="https://lanyard.cnrad.dev/api/828936480952942593?theme=dark&bg=2A2840" style="display:block; margin:auto;" width="50%" />
-  </a>
-</p>
+### Connect on Discord:
+[![David's Discord](https://lanyard.cnrad.dev/api/828936480952942593?theme=dark&bg=2A2840)](https://discord.com/users/828936480952942593)
