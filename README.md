@@ -21,9 +21,9 @@ is_profile_special()
 +    SQL: Proficient
 +    PHP: Proficient
 +    HTML, CSS: Proficient
++    Figma: Expert
 
 -    C#: Needs work
 -    JavaScript: Can't do that... 
 -    Azure: Avoid at all costs 😂 < Vercel
-
 ```
