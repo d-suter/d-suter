@@ -14,3 +14,16 @@ is_profile_special()
 
 ### Connect on Discord:
 [![David's Discord](https://lanyard.cnrad.dev/api/828936480952942593?theme=dark&bg=2A2840)](https://discord.com/users/828936480952942593)
+
+## Skills Update:
+```diff
++    Python: Still leveling up...
++    SQL: Proficient
++    PHP: Proficient
++    HTML, CSS: Proficient
+
+-    C#: Needs work
+-    JavaScript: Can't do that... 
+-    Azure: Avoid at all costs 😂 < Vercel
+
+```
