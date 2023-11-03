@@ -13,7 +13,7 @@ is_profile_special()
 ```
 
 ### Connect on Discord:
-[![David's Discord](https://lanyard.cnrad.dev/api/828936480952942593?theme=dark&bg=2A2840)](https://discord.com/users/828936480952942593)
+[![David's Discord](https://lanyard.cnrad.dev/api/828936480952942593?theme=dark&bg=2A2840?idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/828936480952942593)
 
 ## Skills Update:
 ```diff
