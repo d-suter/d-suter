@@ -1,6 +1,5 @@
 ![David's Banner](/img/banner.png)
 
-## David's Python Corner:
 ```python
 def is_profile_special():
     while True:
@@ -12,16 +11,12 @@ def is_profile_special():
 is_profile_special()
 ```
 
-### Connect on Twitter:
 [![Twitter Follow](https://img.shields.io/twitter/follow/dave761?style=social)](https://twitter.com/dave761)
+![GitHub Stars](https://img.shields.io/github/stars/d-suter)
+[![Hits](https://hits-app.vercel.app/hits?url=https://github.com/d-suter&bgLeft=444444&bgRight=575fff&label=visits)](https://hits-app.vercel.app/)
 
-### Connect on Discord:
 [![David's Discord](https://lanyard.cnrad.dev/api/828936480952942593?theme=dark&bg=2A2840)](https://discord.com/users/828936480952942593)
 
-### GitHub Stars:
-![GitHub Stars](https://img.shields.io/github/stars/d-suter)
-
-## Skills Update:
 ```diff
 +    Python: Still leveling up...
 +    SQL: Proficient
