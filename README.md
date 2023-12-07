@@ -1,30 +1,15 @@
 ![David's Banner](/img/banner.png)
-
-```python
-def is_profile_special():
-    while True:
-        if input("Is this profile special? (yes/no): ").lower() == 'yes':
-            print("Ohh, you really thought it's special? Well, it isn't... or is it? 🤔")
-            break
-        print("Give it another shot. 😉")
-
-is_profile_special()
+--- 
+```yaml
+68 6f 77 20 64 69 64 20 79 6f 75 20 66 69 6e 64 20 74 68 61 74 20 6f 75 74 3f
 ```
+---
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/dave761?style=social)](https://twitter.com/dave761)
-![GitHub Stars](https://img.shields.io/github/stars/d-suter)
-[![Hits](https://hits-app.vercel.app/hits?url=https://github.com/d-suter&bgLeft=444444&bgRight=575fff&label=visits)](https://hits-app.vercel.app/)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=david.raul.suter&cover_image=true&theme=natemoo-re&show_offline=false&background_color=ebc3c8&interchange=true&bar_color=ebc3c8&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=david.raul.suter&redirect=true)
 
-[![David's Discord](https://lanyard.cnrad.dev/api/828936480952942593?theme=dark&bg=2A2840)](https://discord.com/users/828936480952942593)
+![GitHub Stars](https://img.shields.io/github/stars/d-suter?color=ebc3c8)
+[![Discord: @ay.dave](https://img.shields.io/badge/discord-%40ay.dave-ebc3c8)](https://discord.com/users/828936480952942593)
+[![Twitter: dave761](https://img.shields.io/badge/twitter-%40dave761-ebc3c8)](https://twitter.com/dave761)
+[![ayo.so: dave](https://img.shields.io/badge/ayo.so-%40dave-ebc3c8)](https://ayo.so/dave)
+[![Hits](https://hits-app.vercel.app/hits?url=https://github.com/d-suter&bgLeft=444444&bgRight=ebc3c8&label=visits)](https://hits-app.vercel.app/)
 
-```diff
-+    Python: Still leveling up...
-+    SQL: Proficient
-+    PHP: Proficient
-+    HTML, CSS: Proficient
-+    Figma: Expert
-
--    C#: Needs work
--    JavaScript: Can't do that... 
--    Azure: Avoid at all costs 😂 < Vercel
-```
