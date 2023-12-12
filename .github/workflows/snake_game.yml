@@ -31,4 +31,4 @@ jobs:
         run: |
           git add dist/github-snake.svg
           git diff-index --quiet HEAD || git commit -m "Add generated snake game"
-          git push https://${{ secrets.MY_PERSONAL_TOKEN }}@github.com/d-suter/d-suter.git main
+          git push https://d-suter:${{ secrets.MY_PERSONAL_TOKEN }}@github.com/d-suter/d-suter.git main
