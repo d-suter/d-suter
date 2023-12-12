@@ -12,23 +12,23 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout the repository
-      uses: actions/checkout@v2
+      - name: Checkout the repository
+        uses: actions/checkout@v3
 
-    - name: Set up Git identity
-      run: |
-        git config user.name "GitHub Action"
-        git config user.email "action@github.com"
+      - name: Set up Git identity
+        run: |
+          git config user.name "GitHub Action"
+          git config user.email "action@github.com"
 
-    - name: Generate GitHub Contribution Snake Game
-      uses: Platane/snk@v3
-      with:
-        github_user_name: ${{ github.repository_owner }}
-        outputs: |
-          dist/github-snake.svg?color_snake=%23ebc3c8&color_dots=%23ffffff,%23f7d6e0,%23f0aebd,%23ea85aa,%23e45c97
+      - name: Generate GitHub Contribution Snake Game
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg?color_snake=%23ebc3c8&color_dots=%23ffffff,%23f7d6e0,%23f0aebd,%23ea85aa,%23e45c97
 
-    - name: Commit and push generated SVG
-      run: |
-        git add .
-        git commit -m "Add generated snake game" -a || echo "No changes to commit"
-        git -c http.extraHeader="AUTHORIZATION: basic $(echo -n d-suter:${{ secrets.MY_PERSONAL_TOKEN }} | base64)" push --set-upstream origin main
+      - name: Commit and push generated SVG
+        run: |
+          git add dist/github-snake.svg
+          git diff-index --quiet HEAD || git commit -m "Add generated snake game"
+          git push https://${{ secrets.MY_PERSONAL_TOKEN }}@github.com/d-suter/d-suter.git main
