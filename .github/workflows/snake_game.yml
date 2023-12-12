@@ -20,3 +20,12 @@ jobs:
         github_user_name: ${{ github.repository_owner }}
         outputs: |
           dist/github-snake.svg?color_snake=%23ebc3c8&color_dots=%23ffffff,%23f7d6e0,%23f0aebd,%23ea85aa,%23e45c97
+
+    - name: Commit and push generated SVG
+      run: |
+        git add .
+        git config --global user.email "action@github.com"
+        git config --global user.name "GitHub Action"
+        git commit -m "Add generated snake game" -a || echo "No changes to commit"
+        git push
+
