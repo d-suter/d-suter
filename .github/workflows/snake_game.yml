@@ -12,7 +12,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v2
+    - name: Checkout the repository
+      uses: actions/checkout@v2
+
+    - name: Check out the main branch
+      run: git checkout main
 
     - name: Generate GitHub Contribution Snake Game
       uses: Platane/snk@v3
@@ -27,7 +31,8 @@ jobs:
         git config --global user.email "action@github.com"
         git config --global user.name "GitHub Action"
         git commit -m "Add generated snake game" -a || echo "No changes to commit"
-        git push --set-upstream origin HEAD:main
+        git -c http.extraHeader="AUTHORIZATION: basic $(echo -n ${GITHUB_ACTOR}:${{ secrets.MY_PERSONAL_TOKEN }} | base64 --wrap=0)" push --set-upstream origin main
       env:
-        GITHUB_TOKEN: ${{ secrets.MY_PERSONAL_TOKEN }}
+        MY_PERSONAL_TOKEN: ${{ secrets.MY_PERSONAL_TOKEN }}
+
     
