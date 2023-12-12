@@ -29,6 +29,7 @@ jobs:
 
       - name: Commit and push generated SVG
         run: |
-          git add dist/github-snake.svg
-          git diff-index --quiet HEAD || git commit -m "Add generated snake game"
-          git push https://d-suter:${{ secrets.MY_PERSONAL_TOKEN }}@github.com/d-suter/d-suter.git main
+          git add .
+          git commit -m "Add generated snake game" -a || echo "No changes to commit"
+          git push https://${{ secrets.MY_PERSONAL_TOKEN }}@github.com/d-suter/d-suter.git main
+      
