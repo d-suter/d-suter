@@ -11,3 +11,6 @@
 [![Twitter: dave761](https://img.shields.io/badge/twitter-%40dave761-ebc3c8)](https://twitter.com/dave761)
 [![ayo.so: dave](https://img.shields.io/badge/ayo.so-%40dave-ebc3c8)](https://ayo.so/dave)
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=d-suter.d-suter&left_color=%23444444&right_color=%23ebc3c8)
+
+![GitHub Snake Game](dist/github-snake.svg)
+
