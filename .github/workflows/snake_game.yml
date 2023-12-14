@@ -28,8 +28,9 @@ jobs:
             dist/github-snake.svg?color_snake=%23ebc3c8&color_dots=%23ffffff,%23f7d6e0,%23f0aebd,%23ea85aa,%23e45c97
 
       - name: Commit and push generated SVG
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git add .
           git commit -m "Add generated snake game" -a || echo "No changes to commit"
-          git push https://${{ secrets.MY_PERSONAL_TOKEN }}@github.com/d-suter/d-suter.git main
-      
+          git push --set-upstream https://github.com/d-suter/d-suter.git main
