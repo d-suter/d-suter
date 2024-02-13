@@ -13,7 +13,7 @@
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=d-suter.d-suter&left_color=%23444444&right_color=%23ebc3c8)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
-  <img alt="github-snake" src="dist/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake-light.svg" />
+  <img alt="github-snake" src="dist/github-snake-light.svg" />
 </picture>
