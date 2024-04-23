@@ -4,7 +4,7 @@
 69 66 20 79 6F 75 20 6B 6E 6F 77 2C 20 79 6F 75 20 6B 6E 6F 77
 ```
 ---
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=david.raul.suter&cover_image=true&theme=natemoo-re&show_offline=false&background_color=ebc3c8&interchange=true&bar_color=ebc3c8&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=david.raul.suter&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=david.raul.suter&cover_image=true&theme=natemoo-re&show_offline=true&background_color=ebc3c8&interchange=true&bar_color=ebc3c8&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=david.raul.suter&redirect=true)
 ---
 [![GitHub Stars](https://img.shields.io/github/stars/d-suter?color=ebc3c8)](https://github.com/d-suter)
 [![Discord: @ay.dave](https://img.shields.io/badge/discord-%40ay.dave-ebc3c8)](https://discord.com/users/828936480952942593)
