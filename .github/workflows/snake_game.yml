@@ -25,8 +25,8 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake-light.svg?color_snake=#cfabf5&color_dots=#ffffff,#f7d6e0,#f0aebd,#ea85aa,#e45c97&palette=github-light
-            dist/github-snake-dark.svg?color_snake=#cfabf5&color_dots=#3d3347,#f7d6e0,#f0aebd,#ea85aa,#e45c97&palette=github-dark
+            dist/github-snake-light.svg?color_snake=#b4b3b4&color_dots=#ffffff,#dad8c9,#403933,#58522f,#403933&palette=github-light
+            dist/github-snake-dark.svg?color_snake=#b4b3b4&color_dots=#181a18,#dad8c9,#403933,#58522f,#403933&palette=github-dark
 
       - name: Commit and push generated SVG
         env:
