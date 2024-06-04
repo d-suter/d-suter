@@ -22,4 +22,4 @@
 [![footlocker-bot](https://github-readme-stats.vercel.app/api/pin/?username=d-suter&repo=footlocker-bot&theme=dark)](https://github.com/d-suter/footlocker-bot)
 [![datadome-bp](https://github-readme-stats.vercel.app/api/pin/?username=d-suter&repo=datadome-bp&theme=dark)](https://github.com/d-suter/datadome-bp)<br/>
 [![end-stock](https://github-readme-stats.vercel.app/api/pin/?username=d-suter&repo=end-stock&theme=dark)](https://github.com/d-suter/end-stock)
-[![portfolio](https://github-readme-stats.vercel.app/api/pin/?username=d-suter&repo=portfolio&theme=dark)](https://github.com/d-suter/portfolio)
+[![archive-89-monitor](https://github-readme-stats.vercel.app/api/pin/?username=d-suter&repo=archive-89-monitor&theme=dark)](https://github.com/d-suter/archive-89-monitor)
