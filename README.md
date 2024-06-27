@@ -7,7 +7,7 @@
 <!--- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=david.raul.suter&cover_image=true&theme=natemoo-re&show_offline=true&background_color=868679&interchange=true&bar_color=868679&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=david.raul.suter&redirect=true)
 --->
 <a href="https://spotify-github-profile.vercel.app/api/view?uid=david.raul.suter&redirect=true">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=david.raul.suter&cover_image=true&theme=natemoo-re&show_offline=true&background_color=868679&interchange=true&bar_color=868679&bar_color_cover=false" alt="spotify-github-profile" onerror="this.style.display='none'">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=david.raul.suter&cover_image=true&theme=natemoo-re&show_offline=true&background_color=868679&interchange=true&bar_color=868679&bar_color_cover=false" alt="spotify-github-profile" onerror="this.style.display='none'">
 </a>
 
 ---
