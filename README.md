@@ -1,4 +1,5 @@
-![David's Banner](/img/banner1.png)
+![David's Banner](https://github.com/user-attachments/assets/4d5a5d7e-0b1d-4ee9-a057-c3a11e7f0dd2)
+
 --- 
 ```yaml
 69 66 20 79 6F 75 20 6B 6E 6F 77 2C 20 79 6F 75 20 6B 6E 6F 77
