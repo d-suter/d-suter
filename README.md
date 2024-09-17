@@ -2,7 +2,7 @@
 
 --- 
 ```yaml
-69 66 20 79 6F 75 20 6B 6E 6F 77 2C 20 79 6F 75 20 6B 6E 6F 77
+The magic you are looking for is in the work you're avoiding. 🪄⭐
 ```
 ---
 [![Spotify GitHub Profile](https://spotify-github-profile.kittinanx.com/api/view?uid=david.raul.suter&cover_image=true&theme=natemoo-re&show_offline=true&background_color=868679&interchange=true&bar_color=868679&bar_color_cover=false)](https://open.spotify.com/user/david.raul.suter)
