@@ -1,9 +1,10 @@
 ![David's Banner](https://github.com/user-attachments/assets/4d5a5d7e-0b1d-4ee9-a057-c3a11e7f0dd2)
-
+<!---
 --- 
 ```yaml
 The magic you are looking for is in the work you're avoiding. 🪄⭐
 ```
+-->
 ---
 [![Spotify GitHub Profile](https://spotify-github-profile.kittinanx.com/api/view?uid=david.raul.suter&cover_image=true&theme=natemoo-re&show_offline=true&background_color=868679&interchange=true&bar_color=868679&bar_color_cover=false)](https://open.spotify.com/user/david.raul.suter)
 ---
@@ -13,7 +14,7 @@ The magic you are looking for is in the work you're avoiding. 🪄⭐
 [![ayo.so: dave](https://img.shields.io/badge/bento.me-%40dave-868679)](https://bento.me/d-suter)
 [![Website](https://img.shields.io/website-up-down-green-red/http/d-r.cc.svg?label=Website%20Status&color=868679)](https://d-r.cc)
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=d-suter.d-suter&left_color=%23444444&right_color=%23868679)
-
+---
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dist/snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="dist/snake-light.svg" />
