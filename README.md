@@ -24,9 +24,3 @@ The magic you are looking for is in the work you're avoiding. 🪄⭐
 [![datadome-bp](https://github-readme-stats.vercel.app/api/pin/?username=d-suter&repo=datadome-bp&theme=dark)](https://github.com/d-suter/datadome-bp)<br/>
 [![end-stock](https://github-readme-stats.vercel.app/api/pin/?username=d-suter&repo=end-stock&theme=dark)](https://github.com/d-suter/end-stock)
 [![archive-89-monitor](https://github-readme-stats.vercel.app/api/pin/?username=d-suter&repo=archive-89-monitor&theme=dark)](https://github.com/d-suter/archive-89-monitor)
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bots,docker,figma,github,gitlab,js,php,py,ts,vercel,xd" />
-  </a>
-</p>
