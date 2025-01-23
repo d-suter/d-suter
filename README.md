@@ -1,4 +1,6 @@
 ![David's Banner](https://github.com/user-attachments/assets/4d5a5d7e-0b1d-4ee9-a057-c3a11e7f0dd2)
+
+![Mario](https://github.com/d-suter/d-suter/blob/main/mario.gif)
 <!---
 --- 
 ```yaml
