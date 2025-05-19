@@ -1,4 +1,5 @@
-working [@siemens](https://github.com/siemens) as a software dev
+working [@siemens](https://github.com/siemens) as a software dev </br></br>
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=d-suter.d-suter&left_color=%23403933&right_color=%23dad8c9)
 
 <!-- ![David's Banner](https://github.com/user-attachments/assets/4d5a5d7e-0b1d-4ee9-a057-c3a11e7f0dd2)
 <!---
